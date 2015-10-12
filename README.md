@@ -1,2 +1,3 @@
 # hello-world-2
-redo
+
+Learning how to create branches and commits... want to figure out next how to create files in GitHub...
